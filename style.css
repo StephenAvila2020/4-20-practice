@@ -1,0 +1,21 @@
+#blue-input {
+ border: 2px solid blue;
+ flex-basis: 50%;
+ margin: 1em;
+}
+#green-input {
+    border: 2 px solid green;
+    flex-basis: 50%;
+    margin: 1em;
+}
+.flex-container {
+    display: flex;
+    flex-direction: row;
+}
+#message{
+    margin: 1em;
+    width: 80vw;
+}
+body {
+    background-color:grey;
+}
